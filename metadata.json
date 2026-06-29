@@ -1,0 +1,6 @@
+{
+  "name": "Demir Optik",
+  "description": "Demir Optik - Türkiye'nin en seçkin lüks gözlük butiği. Cartier, Maybach, DITA, Chrome Hearts, Lindberg, Mykita ve Jacques Marie Mage markalarıyla lüks gözlük hizmetleri.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
